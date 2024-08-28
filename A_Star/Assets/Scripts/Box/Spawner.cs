@@ -5,11 +5,21 @@ using UnityEngine;
 public class Spawner : MonoBehaviour
 {
     public GameObject mercanciaPrefab;
+    private GameObject currentMercancia;
+    private bool isSpawning = false;
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Space))
+        if (currentMercancia == null && !isSpawning)
         {
-            Instantiate(mercanciaPrefab, transform.position, Quaternion.identity);
+            StartCoroutine(SpawnWithDelay(2f));
         }
+    }
+
+    private IEnumerator SpawnWithDelay(float delay)
+    {
+        isSpawning = true;
+        yield return new WaitForSeconds(delay);
+        currentMercancia = Instantiate(mercanciaPrefab, transform.position, Quaternion.identity);
+        isSpawning = false;
     }
 }
