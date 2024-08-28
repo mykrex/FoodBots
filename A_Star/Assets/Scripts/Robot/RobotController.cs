@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+using System.Security.Cryptography;
 using UnityEngine;
 
 public class Robot : MonoBehaviour
@@ -36,7 +37,8 @@ public class Robot : MonoBehaviour
 
         // Movemos el robot hacia la posición objetivo
         transform.position = Vector3.MoveTowards(transform.position, targetWorldPos, movementSpeed * Time.deltaTime);
-
+        Vector3 lookDirection = targetWorldPos - transform.position;
+        transform.LookAt(targetWorldPos);
         // Si estamos muy cerca del objetivo (menos de 0.01 unidades), pasamos al siguiente nodo
         if (Vector3.Distance(transform.position, targetWorldPos) < 0.01f)
         {
