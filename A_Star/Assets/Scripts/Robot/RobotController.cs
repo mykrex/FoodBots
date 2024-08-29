@@ -5,7 +5,7 @@ using UnityEngine;
 public class Robot : MonoBehaviour
 {
     [SerializeField] private float movementSpeed; // Velocidad de movimiento del robot
-    [SerializeField] private GameObject boxVisual;
+    [SerializeField] public GameObject boxVisual;
     
     private List<Coordinates> pathNodes; // Lista de nodos que forman la ruta del robot
     private int currentNodeIndex = 0; // Índice del nodo actual en la ruta
