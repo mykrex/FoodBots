@@ -10,17 +10,22 @@ public class CajaOnOff : MonoBehaviour
     {
         if (other.TryGetComponent(out Robot robot))
         {
-            if(boxVisual.activeSelf && !robot.boxVisual.activeSelf)
+            Debug.Log($"Caja: {boxVisual.activeSelf}, Robot: {robot.boxVisual.activeSelf}");
+
+            if (boxVisual.activeSelf && !robot.boxVisual.activeSelf)
             {
                 boxVisual.SetActive(false);
                 robot.GrabPayload();
+                Debug.Log("Caja desactivada y robot ha agarrado la caja");
             }
-            if (!boxVisual.activeSelf && robot.boxVisual.activeSelf)
+            else if (!boxVisual.activeSelf && robot.boxVisual.activeSelf)
             {
                 boxVisual.SetActive(true);
                 robot.DropPayload();
+                Debug.Log("Caja activada y robot ha soltado la caja");
             }
         }
     }
+
 
 }
