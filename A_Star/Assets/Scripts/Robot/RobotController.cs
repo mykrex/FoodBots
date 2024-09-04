@@ -46,6 +46,7 @@ public class Robot : MonoBehaviour
         }
     }
 
+    
     public void GrabPayload()
     {
         boxVisual.SetActive(true);
