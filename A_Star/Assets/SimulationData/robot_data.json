@@ -110,7 +110,7 @@
         },
         {
           "x": 4,
-          "y": 5,
+          "y": 8,
           "wait": false,
           "goal": true
         },
@@ -304,12 +304,6 @@
         },
         {
           "x": 5,
-          "y": 17,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 5,
           "y": 13,
           "wait": false,
           "goal": false
@@ -329,6 +323,12 @@
         {
           "x": 4,
           "y": 8,
+          "wait": true,
+          "goal": true
+        },
+        {
+          "x": 4,
+          "y": 8,
           "wait": false,
           "goal": true
         },
@@ -484,7 +484,7 @@
         },
         {
           "x": 4,
-          "y": 5,
+          "y": 8,
           "wait": false,
           "goal": true
         },
@@ -497,6 +497,18 @@
         {
           "x": 10,
           "y": 9,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 10,
+          "y": 5,
+          "wait": true,
+          "goal": false
+        },
+        {
+          "x": 10,
+          "y": 5,
           "wait": false,
           "goal": false
         },
@@ -529,12 +541,6 @@
           "y": 12,
           "wait": false,
           "goal": true
-        },
-        {
-          "x": 6,
-          "y": 12,
-          "wait": false,
-          "goal": false
         }
       ]
     },
@@ -588,12 +594,6 @@
         },
         {
           "x": 4,
-          "y": 8,
-          "wait": false,
-          "goal": true
-        },
-        {
-          "x": 4,
           "y": 12,
           "wait": false,
           "goal": true
@@ -767,18 +767,6 @@
           "goal": true
         },
         {
-          "x": 10,
-          "y": 5,
-          "wait": true,
-          "goal": false
-        },
-        {
-          "x": 10,
-          "y": 5,
-          "wait": false,
-          "goal": false
-        },
-        {
           "x": 16,
           "y": 5,
           "wait": false,
@@ -807,6 +795,12 @@
           "y": 12,
           "wait": false,
           "goal": true
+        },
+        {
+          "x": 6,
+          "y": 12,
+          "wait": false,
+          "goal": false
         }
       ]
     },
@@ -865,49 +859,7 @@
           "goal": false
         },
         {
-          "x": 1,
-          "y": 10,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 1,
-          "y": 8,
-          "wait": false,
-          "goal": true
-        },
-        {
-          "x": 1,
-          "y": 9,
-          "wait": false,
-          "goal": true
-        },
-        {
-          "x": 8,
-          "y": 9,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 8,
-          "y": 14,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 16,
-          "y": 14,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 5,
-          "y": 14,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 5,
+          "x": 9,
           "y": 10,
           "wait": false,
           "goal": false
@@ -915,72 +867,6 @@
         {
           "x": 1,
           "y": 10,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 1,
-          "y": 8,
-          "wait": false,
-          "goal": true
-        },
-        {
-          "x": 1,
-          "y": 9,
-          "wait": false,
-          "goal": true
-        },
-        {
-          "x": 16,
-          "y": 9,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 1,
-          "y": 8,
-          "wait": false,
-          "goal": true
-        },
-        {
-          "x": 1,
-          "y": 9,
-          "wait": false,
-          "goal": true
-        },
-        {
-          "x": 8,
-          "y": 9,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 8,
-          "y": 2,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 16,
-          "y": 2,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 16,
-          "y": 1,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 8,
-          "y": 1,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 8,
-          "y": 9,
           "wait": false,
           "goal": false
         },
@@ -1028,7 +914,19 @@
         },
         {
           "x": 1,
+          "y": 10,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 1,
           "y": 8,
+          "wait": false,
+          "goal": true
+        },
+        {
+          "x": 1,
+          "y": 9,
           "wait": false,
           "goal": true
         },
@@ -1052,6 +950,126 @@
         },
         {
           "x": 10,
+          "y": 5,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 10,
+          "y": 9,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 1,
+          "y": 9,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 1,
+          "y": 8,
+          "wait": false,
+          "goal": true
+        },
+        {
+          "x": 1,
+          "y": 11,
+          "wait": false,
+          "goal": true
+        },
+        {
+          "x": 5,
+          "y": 11,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 5,
+          "y": 17,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 16,
+          "y": 17,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 6,
+          "y": 17,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 6,
+          "y": 11,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 2,
+          "y": 11,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 1,
+          "y": 8,
+          "wait": false,
+          "goal": true
+        },
+        {
+          "x": 2,
+          "y": 10,
+          "wait": false,
+          "goal": true
+        },
+        {
+          "x": 16,
+          "y": 10,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 1,
+          "y": 8,
+          "wait": false,
+          "goal": true
+        },
+        {
+          "x": 1,
+          "y": 9,
+          "wait": true,
+          "goal": true
+        },
+        {
+          "x": 1,
+          "y": 9,
+          "wait": true,
+          "goal": true
+        },
+        {
+          "x": 1,
+          "y": 9,
+          "wait": false,
+          "goal": true
+        },
+        {
+          "x": 8,
+          "y": 9,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 8,
+          "y": 5,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 16,
           "y": 5,
           "wait": false,
           "goal": false
@@ -1072,18 +1090,6 @@
         },
         {
           "x": 1,
-          "y": 11,
-          "wait": true,
-          "goal": false
-        },
-        {
-          "x": 1,
-          "y": 11,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 1,
           "y": 8,
           "wait": false,
           "goal": false
@@ -1115,11 +1121,53 @@
         {
           "x": 9,
           "y": 10,
-          "wait": true,
+          "wait": false,
           "goal": false
         },
         {
-          "x": 9,
+          "x": 1,
+          "y": 10,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 1,
+          "y": 8,
+          "wait": false,
+          "goal": true
+        },
+        {
+          "x": 1,
+          "y": 9,
+          "wait": false,
+          "goal": true
+        },
+        {
+          "x": 8,
+          "y": 9,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 8,
+          "y": 14,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 16,
+          "y": 14,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 5,
+          "y": 14,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 5,
           "y": 10,
           "wait": false,
           "goal": false
@@ -1127,6 +1175,84 @@
         {
           "x": 1,
           "y": 10,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 1,
+          "y": 8,
+          "wait": false,
+          "goal": true
+        },
+        {
+          "x": 1,
+          "y": 9,
+          "wait": false,
+          "goal": true
+        },
+        {
+          "x": 16,
+          "y": 9,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 1,
+          "y": 9,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 1,
+          "y": 8,
+          "wait": false,
+          "goal": true
+        },
+        {
+          "x": 1,
+          "y": 9,
+          "wait": false,
+          "goal": true
+        },
+        {
+          "x": 8,
+          "y": 9,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 8,
+          "y": 2,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 16,
+          "y": 2,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 16,
+          "y": 1,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 8,
+          "y": 1,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 8,
+          "y": 9,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 1,
+          "y": 9,
           "wait": false,
           "goal": false
         },
@@ -1175,126 +1301,6 @@
         {
           "x": 1,
           "y": 10,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 1,
-          "y": 8,
-          "wait": false,
-          "goal": true
-        },
-        {
-          "x": 1,
-          "y": 9,
-          "wait": false,
-          "goal": true
-        },
-        {
-          "x": 8,
-          "y": 9,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 8,
-          "y": 5,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 16,
-          "y": 5,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 10,
-          "y": 5,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 10,
-          "y": 9,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 1,
-          "y": 9,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 1,
-          "y": 8,
-          "wait": false,
-          "goal": true
-        },
-        {
-          "x": 1,
-          "y": 11,
-          "wait": false,
-          "goal": true
-        },
-        {
-          "x": 5,
-          "y": 11,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 5,
-          "y": 17,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 16,
-          "y": 17,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 6,
-          "y": 17,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 6,
-          "y": 11,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 2,
-          "y": 11,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 1,
-          "y": 8,
-          "wait": false,
-          "goal": true
-        },
-        {
-          "x": 2,
-          "y": 10,
-          "wait": false,
-          "goal": true
-        },
-        {
-          "x": 16,
-          "y": 10,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 1,
-          "y": 10,
           "wait": true,
           "goal": false
         },
@@ -1324,6 +1330,12 @@
         },
         {
           "x": 16,
+          "y": 5,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 9,
           "y": 5,
           "wait": false,
           "goal": false
@@ -1344,6 +1356,18 @@
         },
         {
           "x": 1,
+          "y": 11,
+          "wait": true,
+          "goal": false
+        },
+        {
+          "x": 1,
+          "y": 11,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 1,
           "y": 8,
           "wait": false,
           "goal": false
@@ -1453,12 +1477,6 @@
         {
           "x": 1,
           "y": 9,
-          "wait": true,
-          "goal": true
-        },
-        {
-          "x": 1,
-          "y": 9,
           "wait": false,
           "goal": true
         },
@@ -1502,12 +1520,6 @@
           "x": 1,
           "y": 8,
           "wait": false,
-          "goal": true
-        },
-        {
-          "x": 1,
-          "y": 9,
-          "wait": true,
           "goal": true
         },
         {
@@ -1572,27 +1584,27 @@
         },
         {
           "x": 1,
-          "y": 9,
-          "wait": true,
-          "goal": false
-        },
-        {
-          "x": 1,
-          "y": 9,
-          "wait": true,
-          "goal": false
-        },
-        {
-          "x": 1,
-          "y": 9,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 1,
           "y": 8,
           "wait": false,
           "goal": true
+        },
+        {
+          "x": 1,
+          "y": 9,
+          "wait": false,
+          "goal": true
+        },
+        {
+          "x": 8,
+          "y": 9,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 8,
+          "y": 2,
+          "wait": false,
+          "goal": false
         }
       ]
     }
