@@ -80,4 +80,46 @@ public class Robot : MonoBehaviour
         boxVisual.SetActive(false);
         currentboxInventory = 0; 
     }
+
+    // Método para manejar colisiones
+    private void OnTriggerEnter(Collider other)
+    {
+        // Verificar si el robot ha colisionado con un objeto con las etiquetas "right" o "left"
+        if (other.CompareTag("right") || other.CompareTag("left"))
+        {
+            // Verificar si el nodo actual es un objetivo (goal)
+            if (currentNodeIndex < pathNodes.Count)
+            {
+                Coordinates currentCoordinates = pathNodes[currentNodeIndex];
+
+                if (currentCoordinates.goal)
+                {
+                    if (other.CompareTag("right"))
+                    {
+                        RotateRight(); // Gira a la derecha
+                    }
+                    else if (other.CompareTag("left"))
+                    {
+                        RotateLeft(); // Gira a la izquierda
+                    }
+                }
+            }
+        }
+    }
+
+    // Método para girar el robot a la derecha
+    private void RotateRight()
+    {
+        // Rotar 90 grados a la derecha
+        transform.Rotate(0, 90, 0);
+        Debug.Log("Robot ha girado a la derecha");
+    }
+
+    // Método para girar el robot a la izquierda
+    private void RotateLeft()
+    {
+        // Rotar 90 grados a la izquierda
+        transform.Rotate(0, -90, 0);
+        Debug.Log("Robot ha girado a la izquierda");
+    }
 }

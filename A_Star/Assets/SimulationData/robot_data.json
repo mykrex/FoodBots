@@ -2,204 +2,1597 @@
   "robots": [
     {
       "spawnPosition": {
-        "x": 15,
-        "y": 18
+        "x": 4,
+        "y": 15
       },
       "path": [
         {
-          "x": 19,
-          "y": 18
+          "x": 5,
+          "y": 15,
+          "wait": false,
+          "goal": true
         },
         {
-          "x": 19,
-          "y": 17
-        }
-
-      ]
-    },
-    {
-      "spawnPosition": {
-        "x": 16,
-        "y": 22
-      },
-      "path": [
-        {
-          "x": 18,
-          "y": 22
+          "x": 5,
+          "y": 17,
+          "wait": false,
+          "goal": false
         },
         {
-          "x": 18,
-          "y": 21
-        }
-
-      ]
-    },
-    {
-      "spawnPosition": {
-        "x": 6,
-        "y": 16
-      },
-      "path": [
+          "x": 16,
+          "y": 17,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 5,
+          "y": 17,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 5,
+          "y": 11,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 4,
+          "y": 11,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 4,
+          "y": 8,
+          "wait": false,
+          "goal": true
+        },
+        {
+          "x": 4,
+          "y": 12,
+          "wait": false,
+          "goal": true
+        },
         {
           "x": 6,
-          "y": 12
+          "y": 12,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 6,
+          "y": 17,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 16,
+          "y": 17,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 6,
+          "y": 17,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 6,
+          "y": 8,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 4,
+          "y": 8,
+          "wait": false,
+          "goal": true
+        },
+        {
+          "x": 4,
+          "y": 10,
+          "wait": false,
+          "goal": true
+        },
+        {
+          "x": 16,
+          "y": 10,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 4,
+          "y": 10,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 4,
+          "y": 5,
+          "wait": false,
+          "goal": true
+        },
+        {
+          "x": 10,
+          "y": 8,
+          "wait": false,
+          "goal": true
+        },
+        {
+          "x": 10,
+          "y": 5,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 16,
+          "y": 5,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 10,
+          "y": 5,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 10,
+          "y": 8,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 4,
+          "y": 8,
+          "wait": false,
+          "goal": true
+        },
+        {
+          "x": 4,
+          "y": 12,
+          "wait": false,
+          "goal": true
         },
         {
           "x": 7,
-          "y": 12
+          "y": 12,
+          "wait": false,
+          "goal": false
         },
         {
           "x": 7,
-          "y": 14
+          "y": 14,
+          "wait": false,
+          "goal": false
         },
         {
-          "x": 11,
-          "y": 14
+          "x": 16,
+          "y": 14,
+          "wait": false,
+          "goal": false
         },
         {
-          "x": 11,
-          "y": 17
+          "x": 5,
+          "y": 14,
+          "wait": false,
+          "goal": false
         },
         {
-          "x": 14,
-          "y": 17
+          "x": 5,
+          "y": 10,
+          "wait": false,
+          "goal": false
         },
         {
-          "x": 14,
-          "y": 18
+          "x": 4,
+          "y": 10,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 4,
+          "y": 8,
+          "wait": false,
+          "goal": true
+        },
+        {
+          "x": 4,
+          "y": 9,
+          "wait": false,
+          "goal": true
+        },
+        {
+          "x": 16,
+          "y": 9,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 4,
+          "y": 9,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 4,
+          "y": 8,
+          "wait": false,
+          "goal": true
+        },
+        {
+          "x": 4,
+          "y": 9,
+          "wait": false,
+          "goal": true
+        },
+        {
+          "x": 9,
+          "y": 9,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 9,
+          "y": 2,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 16,
+          "y": 2,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 16,
+          "y": 1,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 8,
+          "y": 1,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 8,
+          "y": 8,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 4,
+          "y": 8,
+          "wait": false,
+          "goal": true
         }
       ]
     },
     {
       "spawnPosition": {
-        "x": 7,
-        "y": 16
+        "x": 4,
+        "y": 14
       },
       "path": [
+        {
+          "x": 5,
+          "y": 14,
+          "wait": false,
+          "goal": true
+        },
+        {
+          "x": 6,
+          "y": 14,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 6,
+          "y": 13,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 16,
+          "y": 13,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 5,
+          "y": 17,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 5,
+          "y": 13,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 5,
+          "y": 11,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 4,
+          "y": 11,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 4,
+          "y": 8,
+          "wait": false,
+          "goal": true
+        },
+        {
+          "x": 4,
+          "y": 9,
+          "wait": false,
+          "goal": true
+        },
+        {
+          "x": 5,
+          "y": 9,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 5,
+          "y": 13,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 16,
+          "y": 13,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 5,
+          "y": 13,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 5,
+          "y": 9,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 4,
+          "y": 9,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 4,
+          "y": 8,
+          "wait": false,
+          "goal": true
+        },
+        {
+          "x": 4,
+          "y": 9,
+          "wait": false,
+          "goal": true
+        },
+        {
+          "x": 10,
+          "y": 9,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 10,
+          "y": 5,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 16,
+          "y": 5,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 9,
+          "y": 5,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 9,
+          "y": 8,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 4,
+          "y": 8,
+          "wait": false,
+          "goal": true
+        },
+        {
+          "x": 4,
+          "y": 12,
+          "wait": false,
+          "goal": true
+        },
+        {
+          "x": 6,
+          "y": 12,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 6,
+          "y": 17,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 16,
+          "y": 17,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 6,
+          "y": 17,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 6,
+          "y": 8,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 4,
+          "y": 8,
+          "wait": false,
+          "goal": true
+        },
+        {
+          "x": 4,
+          "y": 10,
+          "wait": false,
+          "goal": true
+        },
+        {
+          "x": 16,
+          "y": 10,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 4,
+          "y": 10,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 4,
+          "y": 5,
+          "wait": false,
+          "goal": true
+        },
+        {
+          "x": 4,
+          "y": 9,
+          "wait": false,
+          "goal": true
+        },
+        {
+          "x": 10,
+          "y": 9,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 16,
+          "y": 5,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 9,
+          "y": 5,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 9,
+          "y": 8,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 4,
+          "y": 8,
+          "wait": false,
+          "goal": true
+        },
+        {
+          "x": 4,
+          "y": 12,
+          "wait": false,
+          "goal": true
+        },
+        {
+          "x": 6,
+          "y": 12,
+          "wait": false,
+          "goal": false
+        }
+      ]
+    },
+    {
+      "spawnPosition": {
+        "x": 4,
+        "y": 13
+      },
+      "path": [
+        {
+          "x": 5,
+          "y": 13,
+          "wait": false,
+          "goal": true
+        },
+        {
+          "x": 5,
+          "y": 9,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 8,
+          "y": 9,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 8,
+          "y": 2,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 16,
+          "y": 2,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 8,
+          "y": 2,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 8,
+          "y": 8,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 4,
+          "y": 8,
+          "wait": false,
+          "goal": true
+        },
+        {
+          "x": 4,
+          "y": 12,
+          "wait": false,
+          "goal": true
+        },
         {
           "x": 7,
-          "y": 15
+          "y": 12,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 7,
+          "y": 14,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 16,
+          "y": 14,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 5,
+          "y": 14,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 5,
+          "y": 10,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 4,
+          "y": 10,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 4,
+          "y": 8,
+          "wait": false,
+          "goal": true
+        },
+        {
+          "x": 4,
+          "y": 9,
+          "wait": false,
+          "goal": true
+        },
+        {
+          "x": 16,
+          "y": 9,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 4,
+          "y": 9,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 4,
+          "y": 8,
+          "wait": false,
+          "goal": true
+        },
+        {
+          "x": 4,
+          "y": 9,
+          "wait": false,
+          "goal": true
         },
         {
           "x": 9,
-          "y": 15
+          "y": 9,
+          "wait": false,
+          "goal": false
         },
         {
           "x": 9,
-          "y": 12
+          "y": 2,
+          "wait": false,
+          "goal": false
         },
         {
-          "x": 14,
-          "y": 12
+          "x": 16,
+          "y": 2,
+          "wait": false,
+          "goal": false
         },
         {
-          "x": 14,
-          "y": 9
+          "x": 16,
+          "y": 1,
+          "wait": false,
+          "goal": false
         },
         {
-          "x": 17,
-          "y": 9
+          "x": 8,
+          "y": 1,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 8,
+          "y": 8,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 4,
+          "y": 8,
+          "wait": false,
+          "goal": true
+        },
+        {
+          "x": 4,
+          "y": 9,
+          "wait": false,
+          "goal": true
+        },
+        {
+          "x": 5,
+          "y": 9,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 5,
+          "y": 13,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 16,
+          "y": 13,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 5,
+          "y": 13,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 5,
+          "y": 9,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 4,
+          "y": 9,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 4,
+          "y": 8,
+          "wait": false,
+          "goal": true
+        },
+        {
+          "x": 10,
+          "y": 8,
+          "wait": false,
+          "goal": true
+        },
+        {
+          "x": 10,
+          "y": 5,
+          "wait": true,
+          "goal": false
+        },
+        {
+          "x": 10,
+          "y": 5,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 16,
+          "y": 5,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 10,
+          "y": 5,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 10,
+          "y": 8,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 4,
+          "y": 8,
+          "wait": false,
+          "goal": true
+        },
+        {
+          "x": 4,
+          "y": 12,
+          "wait": false,
+          "goal": true
         }
       ]
     },
     {
       "spawnPosition": {
-        "x": 8,
-        "y": 17
+        "x": 3,
+        "y": 12
       },
       "path": [
         {
-          "x": 20,
-          "y": 17
+          "x": 1,
+          "y": 11,
+          "wait": false,
+          "goal": true
         },
         {
-          "x": 20,
-          "y": 18
+          "x": 1,
+          "y": 8,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 2,
+          "y": 8,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 2,
+          "y": 9,
+          "wait": false,
+          "goal": false
         },
         {
           "x": 10,
-          "y": 18
+          "y": 9,
+          "wait": false,
+          "goal": false
         },
         {
           "x": 10,
-          "y": 14
+          "y": 6,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 16,
+          "y": 6,
+          "wait": false,
+          "goal": false
         },
         {
           "x": 9,
-          "y": 14
+          "y": 6,
+          "wait": false,
+          "goal": false
         },
         {
-          "x": 9,
-          "y": 12
+          "x": 1,
+          "y": 10,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 1,
+          "y": 8,
+          "wait": false,
+          "goal": true
+        },
+        {
+          "x": 1,
+          "y": 9,
+          "wait": false,
+          "goal": true
         },
         {
           "x": 8,
-          "y": 12
+          "y": 9,
+          "wait": false,
+          "goal": false
         },
         {
           "x": 8,
-          "y": 16
+          "y": 14,
+          "wait": false,
+          "goal": false
         },
         {
-          "x": 9,
-          "y": 16
+          "x": 16,
+          "y": 14,
+          "wait": false,
+          "goal": false
         },
         {
-          "x": 9,
-          "y": 17
+          "x": 5,
+          "y": 14,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 5,
+          "y": 10,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 1,
+          "y": 10,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 1,
+          "y": 8,
+          "wait": false,
+          "goal": true
+        },
+        {
+          "x": 1,
+          "y": 9,
+          "wait": false,
+          "goal": true
+        },
+        {
+          "x": 16,
+          "y": 9,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 1,
+          "y": 8,
+          "wait": false,
+          "goal": true
+        },
+        {
+          "x": 1,
+          "y": 9,
+          "wait": false,
+          "goal": true
         },
         {
           "x": 8,
-          "y": 17
+          "y": 9,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 8,
+          "y": 2,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 16,
+          "y": 2,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 16,
+          "y": 1,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 8,
+          "y": 1,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 8,
+          "y": 9,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 1,
+          "y": 8,
+          "wait": false,
+          "goal": true
+        },
+        {
+          "x": 2,
+          "y": 10,
+          "wait": false,
+          "goal": true
+        },
+        {
+          "x": 8,
+          "y": 10,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 8,
+          "y": 13,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 16,
+          "y": 13,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 7,
+          "y": 13,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 7,
+          "y": 10,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 1,
+          "y": 8,
+          "wait": false,
+          "goal": true
+        },
+        {
+          "x": 8,
+          "y": 9,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 8,
+          "y": 5,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 16,
+          "y": 5,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 10,
+          "y": 5,
+          "wait": false,
+          "goal": false
         }
       ]
     },
-
     {
       "spawnPosition": {
-        "x": 8,
-        "y": 18
+        "x": 2,
+        "y": 12
       },
       "path": [
         {
-          "x": 10,
-          "y": 18
+          "x": 2,
+          "y": 11,
+          "wait": false,
+          "goal": true
         },
         {
-          "x": 10,
-          "y": 22
+          "x": 1,
+          "y": 11,
+          "wait": true,
+          "goal": false
         },
         {
-          "x": 18,
-          "y": 22
+          "x": 1,
+          "y": 11,
+          "wait": false,
+          "goal": false
         },
         {
-          "x": 18,
-          "y": 21
+          "x": 1,
+          "y": 8,
+          "wait": false,
+          "goal": false
         },
         {
-          "x": 11,
-          "y": 21
+          "x": 3,
+          "y": 8,
+          "wait": false,
+          "goal": false
         },
         {
-          "x": 11,
-          "y": 13
+          "x": 3,
+          "y": 9,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 16,
+          "y": 9,
+          "wait": false,
+          "goal": false
         },
         {
           "x": 9,
-          "y": 13
+          "y": 9,
+          "wait": false,
+          "goal": false
         },
         {
           "x": 9,
-          "y": 12
+          "y": 10,
+          "wait": true,
+          "goal": false
         },
         {
           "x": 9,
-          "y": 18
+          "y": 10,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 1,
+          "y": 10,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 1,
+          "y": 8,
+          "wait": false,
+          "goal": true
+        },
+        {
+          "x": 2,
+          "y": 10,
+          "wait": false,
+          "goal": true
         },
         {
           "x": 8,
-          "y": 18
+          "y": 10,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 8,
+          "y": 13,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 16,
+          "y": 13,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 7,
+          "y": 13,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 7,
+          "y": 10,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 1,
+          "y": 10,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 1,
+          "y": 8,
+          "wait": false,
+          "goal": true
+        },
+        {
+          "x": 1,
+          "y": 9,
+          "wait": false,
+          "goal": true
+        },
+        {
+          "x": 8,
+          "y": 9,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 8,
+          "y": 5,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 16,
+          "y": 5,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 10,
+          "y": 5,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 10,
+          "y": 9,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 1,
+          "y": 9,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 1,
+          "y": 8,
+          "wait": false,
+          "goal": true
+        },
+        {
+          "x": 1,
+          "y": 11,
+          "wait": false,
+          "goal": true
+        },
+        {
+          "x": 5,
+          "y": 11,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 5,
+          "y": 17,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 16,
+          "y": 17,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 6,
+          "y": 17,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 6,
+          "y": 11,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 2,
+          "y": 11,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 1,
+          "y": 8,
+          "wait": false,
+          "goal": true
+        },
+        {
+          "x": 2,
+          "y": 10,
+          "wait": false,
+          "goal": true
+        },
+        {
+          "x": 16,
+          "y": 10,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 1,
+          "y": 10,
+          "wait": true,
+          "goal": false
+        },
+        {
+          "x": 1,
+          "y": 10,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 1,
+          "y": 8,
+          "wait": false,
+          "goal": true
+        },
+        {
+          "x": 8,
+          "y": 9,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 8,
+          "y": 5,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 16,
+          "y": 5,
+          "wait": false,
+          "goal": false
+        }
+      ]
+    },
+    {
+      "spawnPosition": {
+        "x": 1,
+        "y": 12
+      },
+      "path": [
+        {
+          "x": 3,
+          "y": 11,
+          "wait": false,
+          "goal": true
+        },
+        {
+          "x": 1,
+          "y": 8,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 3,
+          "y": 8,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 3,
+          "y": 10,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 16,
+          "y": 10,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 1,
+          "y": 10,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 1,
+          "y": 8,
+          "wait": false,
+          "goal": true
+        },
+        {
+          "x": 1,
+          "y": 11,
+          "wait": false,
+          "goal": true
+        },
+        {
+          "x": 5,
+          "y": 11,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 5,
+          "y": 17,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 16,
+          "y": 17,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 6,
+          "y": 17,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 6,
+          "y": 11,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 2,
+          "y": 11,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 1,
+          "y": 8,
+          "wait": false,
+          "goal": true
+        },
+        {
+          "x": 2,
+          "y": 10,
+          "wait": false,
+          "goal": true
+        },
+        {
+          "x": 16,
+          "y": 10,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 1,
+          "y": 10,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 1,
+          "y": 8,
+          "wait": false,
+          "goal": true
+        },
+        {
+          "x": 1,
+          "y": 9,
+          "wait": true,
+          "goal": true
+        },
+        {
+          "x": 1,
+          "y": 9,
+          "wait": false,
+          "goal": true
+        },
+        {
+          "x": 8,
+          "y": 9,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 8,
+          "y": 5,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 16,
+          "y": 5,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 9,
+          "y": 5,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 9,
+          "y": 9,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 1,
+          "y": 9,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 1,
+          "y": 8,
+          "wait": false,
+          "goal": true
+        },
+        {
+          "x": 1,
+          "y": 9,
+          "wait": true,
+          "goal": true
+        },
+        {
+          "x": 1,
+          "y": 9,
+          "wait": false,
+          "goal": true
+        },
+        {
+          "x": 8,
+          "y": 9,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 8,
+          "y": 14,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 16,
+          "y": 14,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 5,
+          "y": 14,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 5,
+          "y": 10,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 1,
+          "y": 10,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 1,
+          "y": 8,
+          "wait": false,
+          "goal": true
+        },
+        {
+          "x": 1,
+          "y": 9,
+          "wait": false,
+          "goal": true
+        },
+        {
+          "x": 16,
+          "y": 9,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 1,
+          "y": 9,
+          "wait": true,
+          "goal": false
+        },
+        {
+          "x": 1,
+          "y": 9,
+          "wait": true,
+          "goal": false
+        },
+        {
+          "x": 1,
+          "y": 9,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 1,
+          "y": 8,
+          "wait": false,
+          "goal": true
         }
       ]
     }
