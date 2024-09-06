@@ -32,13 +32,13 @@
         },
         {
           "x": 5,
-          "y": 11,
+          "y": 9,
           "wait": false,
           "goal": false
         },
         {
           "x": 4,
-          "y": 11,
+          "y": 9,
           "wait": false,
           "goal": false
         },
@@ -49,19 +49,13 @@
           "goal": false
         },
         {
-          "x": 4,
-          "y": 12,
+          "x": 7,
+          "y": 8,
           "wait": false,
           "goal": false
         },
         {
-          "x": 6,
-          "y": 12,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 6,
+          "x": 7,
           "y": 17,
           "wait": false,
           "goal": false
@@ -73,14 +67,32 @@
           "goal": true
         },
         {
-          "x": 6,
-          "y": 17,
+          "x": 14,
+          "y": 18,
           "wait": false,
           "goal": false
         },
         {
           "x": 6,
-          "y": 8,
+          "y": 18,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 5,
+          "y": 11,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 5,
+          "y": 9,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 4,
+          "y": 9,
           "wait": false,
           "goal": false
         },
@@ -91,7 +103,13 @@
           "goal": false
         },
         {
-          "x": 4,
+          "x": 7,
+          "y": 8,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 7,
           "y": 10,
           "wait": false,
           "goal": false
@@ -103,112 +121,28 @@
           "goal": true
         },
         {
-          "x": 4,
+          "x": 8,
           "y": 10,
           "wait": false,
           "goal": false
         },
         {
-          "x": 4,
-          "y": 8,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 10,
-          "y": 8,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 10,
-          "y": 5,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 12,
-          "y": 5,
-          "wait": false,
-          "goal": true
-        },
-        {
-          "x": 10,
-          "y": 5,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 10,
-          "y": 8,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 4,
-          "y": 8,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 4,
-          "y": 12,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 7,
-          "y": 12,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 7,
-          "y": 14,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 10,
-          "y": 14,
-          "wait": false,
-          "goal": true
-        },
-        {
-          "x": 5,
-          "y": 14,
+          "x": 8,
+          "y": 11,
           "wait": false,
           "goal": false
         },
         {
           "x": 5,
-          "y": 10,
+          "y": 11,
           "wait": false,
           "goal": false
         },
         {
-          "x": 4,
-          "y": 10,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 4,
-          "y": 8,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 4,
+          "x": 5,
           "y": 9,
           "wait": false,
           "goal": false
-        },
-        {
-          "x": 12,
-          "y": 9,
-          "wait": false,
-          "goal": true
         },
         {
           "x": 4,
@@ -223,9 +157,15 @@
           "goal": false
         },
         {
-          "x": 4,
-          "y": 9,
+          "x": 7,
+          "y": 8,
           "wait": false,
+          "goal": false
+        },
+        {
+          "x": 7,
+          "y": 9,
+          "wait": true,
           "goal": false
         },
         {
@@ -236,37 +176,97 @@
         },
         {
           "x": 9,
-          "y": 2,
+          "y": 5,
           "wait": false,
           "goal": false
         },
         {
           "x": 12,
-          "y": 2,
+          "y": 5,
           "wait": false,
           "goal": true
         },
         {
-          "x": 12,
-          "y": 1,
+          "x": 8,
+          "y": 5,
           "wait": false,
           "goal": false
         },
         {
           "x": 8,
-          "y": 1,
+          "y": 11,
           "wait": false,
           "goal": false
         },
         {
-          "x": 8,
-          "y": 8,
+          "x": 5,
+          "y": 11,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 5,
+          "y": 9,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 4,
+          "y": 9,
           "wait": false,
           "goal": false
         },
         {
           "x": 4,
           "y": 8,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 7,
+          "y": 8,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 7,
+          "y": 14,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 10,
+          "y": 14,
+          "wait": false,
+          "goal": true
+        },
+        {
+          "x": 6,
+          "y": 14,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 6,
+          "y": 11,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 5,
+          "y": 11,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 5,
+          "y": 9,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 4,
+          "y": 9,
           "wait": false,
           "goal": false
         }
@@ -310,13 +310,13 @@
         },
         {
           "x": 5,
-          "y": 11,
+          "y": 9,
           "wait": false,
           "goal": false
         },
         {
           "x": 4,
-          "y": 11,
+          "y": 9,
           "wait": false,
           "goal": false
         },
@@ -327,14 +327,8 @@
           "goal": false
         },
         {
-          "x": 4,
-          "y": 12,
-          "wait": false,
-          "goal": false
-        },
-        {
           "x": 7,
-          "y": 12,
+          "y": 8,
           "wait": false,
           "goal": false
         },
@@ -351,20 +345,38 @@
           "goal": true
         },
         {
-          "x": 5,
+          "x": 6,
           "y": 14,
           "wait": false,
           "goal": false
         },
         {
+          "x": 6,
+          "y": 11,
+          "wait": true,
+          "goal": false
+        },
+        {
+          "x": 6,
+          "y": 11,
+          "wait": false,
+          "goal": false
+        },
+        {
           "x": 5,
-          "y": 10,
+          "y": 11,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 5,
+          "y": 9,
           "wait": false,
           "goal": false
         },
         {
           "x": 4,
-          "y": 10,
+          "y": 9,
           "wait": false,
           "goal": false
         },
@@ -375,7 +387,13 @@
           "goal": false
         },
         {
-          "x": 4,
+          "x": 7,
+          "y": 8,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 7,
           "y": 9,
           "wait": false,
           "goal": false
@@ -387,6 +405,30 @@
           "goal": true
         },
         {
+          "x": 8,
+          "y": 9,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 8,
+          "y": 11,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 5,
+          "y": 11,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 5,
+          "y": 9,
+          "wait": false,
+          "goal": false
+        },
+        {
           "x": 4,
           "y": 9,
           "wait": false,
@@ -399,7 +441,19 @@
           "goal": false
         },
         {
-          "x": 4,
+          "x": 7,
+          "y": 8,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 7,
+          "y": 9,
+          "wait": true,
+          "goal": false
+        },
+        {
+          "x": 7,
           "y": 9,
           "wait": false,
           "goal": false
@@ -436,25 +490,37 @@
         },
         {
           "x": 8,
-          "y": 8,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 4,
-          "y": 8,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 4,
-          "y": 9,
+          "y": 11,
           "wait": false,
           "goal": false
         },
         {
           "x": 5,
           "y": 9,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 4,
+          "y": 9,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 4,
+          "y": 8,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 7,
+          "y": 8,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 7,
+          "y": 13,
           "wait": false,
           "goal": false
         },
@@ -471,68 +537,14 @@
           "goal": true
         },
         {
-          "x": 5,
+          "x": 6,
           "y": 13,
           "wait": false,
           "goal": false
         },
         {
-          "x": 5,
-          "y": 9,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 4,
-          "y": 9,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 4,
-          "y": 8,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 10,
-          "y": 8,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 10,
-          "y": 5,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 12,
-          "y": 5,
-          "wait": false,
-          "goal": true
-        },
-        {
-          "x": 10,
-          "y": 5,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 10,
-          "y": 8,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 4,
-          "y": 12,
-          "wait": false,
-          "goal": false
-        },
-        {
           "x": 6,
-          "y": 12,
+          "y": 11,
           "wait": false,
           "goal": false
         }
@@ -552,13 +564,13 @@
         },
         {
           "x": 5,
-          "y": 9,
+          "y": 10,
           "wait": false,
           "goal": false
         },
         {
           "x": 8,
-          "y": 9,
+          "y": 10,
           "wait": false,
           "goal": false
         },
@@ -582,19 +594,7 @@
         },
         {
           "x": 8,
-          "y": 8,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 6,
-          "y": 8,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 4,
-          "y": 8,
+          "y": 9,
           "wait": false,
           "goal": false
         },
@@ -605,8 +605,20 @@
           "goal": false
         },
         {
-          "x": 5,
-          "y": 9,
+          "x": 4,
+          "y": 8,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 7,
+          "y": 8,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 7,
+          "y": 13,
           "wait": false,
           "goal": false
         },
@@ -623,8 +635,20 @@
           "goal": true
         },
         {
-          "x": 5,
+          "x": 6,
           "y": 13,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 6,
+          "y": 11,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 5,
+          "y": 11,
           "wait": false,
           "goal": false
         },
@@ -647,19 +671,25 @@
           "goal": false
         },
         {
-          "x": 4,
+          "x": 7,
+          "y": 8,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 7,
           "y": 9,
           "wait": false,
           "goal": false
         },
         {
-          "x": 10,
+          "x": 9,
           "y": 9,
           "wait": false,
           "goal": false
         },
         {
-          "x": 10,
+          "x": 9,
           "y": 6,
           "wait": false,
           "goal": false
@@ -671,14 +701,32 @@
           "goal": true
         },
         {
-          "x": 9,
+          "x": 8,
           "y": 6,
           "wait": false,
           "goal": false
         },
         {
-          "x": 9,
-          "y": 8,
+          "x": 8,
+          "y": 11,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 5,
+          "y": 11,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 5,
+          "y": 9,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 4,
+          "y": 9,
           "wait": false,
           "goal": false
         },
@@ -689,19 +737,13 @@
           "goal": false
         },
         {
-          "x": 4,
-          "y": 12,
+          "x": 7,
+          "y": 8,
           "wait": false,
           "goal": false
         },
         {
-          "x": 6,
-          "y": 12,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 6,
+          "x": 7,
           "y": 17,
           "wait": false,
           "goal": false
@@ -713,298 +755,14 @@
           "goal": true
         },
         {
-          "x": 6,
-          "y": 17,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 6,
-          "y": 8,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 4,
-          "y": 8,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 4,
-          "y": 10,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 11,
-          "y": 10,
-          "wait": false,
-          "goal": true
-        },
-        {
-          "x": 4,
-          "y": 10,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 4,
-          "y": 8,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 4,
-          "y": 9,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 10,
-          "y": 9,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 10,
-          "y": 6,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 13,
-          "y": 6,
-          "wait": false,
-          "goal": true
-        },
-        {
-          "x": 9,
-          "y": 6,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 9,
-          "y": 8,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 4,
-          "y": 8,
-          "wait": true,
-          "goal": false
-        },
-        {
-          "x": 4,
-          "y": 8,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 4,
-          "y": 12,
-          "wait": false,
-          "goal": false
-        }
-      ]
-    },
-    {
-      "spawnPosition": {
-        "x": 3,
-        "y": 12
-      },
-      "path": [
-        {
-          "x": 1,
-          "y": 11,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 1,
-          "y": 8,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 2,
-          "y": 8,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 2,
-          "y": 9,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 10,
-          "y": 9,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 10,
-          "y": 6,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 13,
-          "y": 6,
-          "wait": false,
-          "goal": true
-        },
-        {
-          "x": 9,
-          "y": 6,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 9,
-          "y": 10,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 1,
-          "y": 10,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 1,
-          "y": 8,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 2,
-          "y": 10,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 8,
-          "y": 10,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 8,
-          "y": 13,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 15,
-          "y": 13,
-          "wait": false,
-          "goal": true
-        },
-        {
-          "x": 7,
-          "y": 13,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 7,
-          "y": 10,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 1,
-          "y": 10,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 1,
-          "y": 8,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 1,
-          "y": 9,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 8,
-          "y": 9,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 8,
-          "y": 6,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 13,
-          "y": 6,
-          "wait": false,
-          "goal": true
-        },
-        {
-          "x": 10,
-          "y": 6,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 10,
-          "y": 9,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 1,
-          "y": 9,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 1,
-          "y": 8,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 1,
-          "y": 11,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 5,
-          "y": 11,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 5,
-          "y": 17,
-          "wait": false,
-          "goal": false
-        },
-        {
           "x": 14,
-          "y": 17,
+          "y": 18,
           "wait": false,
-          "goal": true
+          "goal": false
         },
         {
           "x": 6,
-          "y": 17,
+          "y": 18,
           "wait": false,
           "goal": false
         },
@@ -1015,19 +773,43 @@
           "goal": false
         },
         {
-          "x": 2,
+          "x": 5,
+          "y": 11,
+          "wait": true,
+          "goal": false
+        },
+        {
+          "x": 5,
           "y": 11,
           "wait": false,
           "goal": false
         },
         {
-          "x": 1,
+          "x": 5,
+          "y": 9,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 4,
+          "y": 9,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 4,
           "y": 8,
           "wait": false,
           "goal": false
         },
         {
-          "x": 2,
+          "x": 7,
+          "y": 8,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 7,
           "y": 10,
           "wait": false,
           "goal": false
@@ -1039,310 +821,14 @@
           "goal": true
         },
         {
-          "x": 1,
-          "y": 8,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 1,
-          "y": 9,
-          "wait": true,
-          "goal": false
-        },
-        {
-          "x": 1,
-          "y": 9,
-          "wait": true,
-          "goal": false
-        },
-        {
-          "x": 1,
-          "y": 9,
+          "x": 8,
+          "y": 10,
           "wait": false,
           "goal": false
         },
         {
           "x": 8,
-          "y": 9,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 8,
-          "y": 6,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 13,
-          "y": 6,
-          "wait": false,
-          "goal": true
-        }
-      ]
-    },
-    {
-      "spawnPosition": {
-        "x": 2,
-        "y": 12
-      },
-      "path": [
-        {
-          "x": 2,
           "y": 11,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 1,
-          "y": 8,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 3,
-          "y": 8,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 3,
-          "y": 9,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 12,
-          "y": 9,
-          "wait": false,
-          "goal": true
-        },
-        {
-          "x": 9,
-          "y": 9,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 9,
-          "y": 10,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 1,
-          "y": 10,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 1,
-          "y": 8,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 1,
-          "y": 9,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 8,
-          "y": 9,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 8,
-          "y": 14,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 10,
-          "y": 14,
-          "wait": false,
-          "goal": true
-        },
-        {
-          "x": 5,
-          "y": 14,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 5,
-          "y": 10,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 1,
-          "y": 10,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 1,
-          "y": 8,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 1,
-          "y": 9,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 12,
-          "y": 9,
-          "wait": false,
-          "goal": true
-        },
-        {
-          "x": 1,
-          "y": 9,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 1,
-          "y": 8,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 1,
-          "y": 9,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 8,
-          "y": 9,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 8,
-          "y": 2,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 12,
-          "y": 2,
-          "wait": false,
-          "goal": true
-        },
-        {
-          "x": 12,
-          "y": 1,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 8,
-          "y": 1,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 8,
-          "y": 9,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 1,
-          "y": 9,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 1,
-          "y": 8,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 2,
-          "y": 10,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 8,
-          "y": 10,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 8,
-          "y": 13,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 15,
-          "y": 13,
-          "wait": false,
-          "goal": true
-        },
-        {
-          "x": 7,
-          "y": 13,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 7,
-          "y": 10,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 1,
-          "y": 10,
-          "wait": true,
-          "goal": false
-        },
-        {
-          "x": 1,
-          "y": 10,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 1,
-          "y": 8,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 8,
-          "y": 9,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 8,
-          "y": 5,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 12,
-          "y": 5,
-          "wait": false,
-          "goal": true
-        },
-        {
-          "x": 9,
-          "y": 5,
           "wait": false,
           "goal": false
         }
@@ -1355,18 +841,6 @@
       },
       "path": [
         {
-          "x": 3,
-          "y": 11,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 1,
-          "y": 11,
-          "wait": true,
-          "goal": false
-        },
-        {
           "x": 1,
           "y": 11,
           "wait": false,
@@ -1379,26 +853,50 @@
           "goal": false
         },
         {
-          "x": 3,
+          "x": 2,
           "y": 8,
           "wait": false,
           "goal": false
         },
         {
-          "x": 3,
-          "y": 10,
+          "x": 2,
+          "y": 9,
           "wait": false,
           "goal": false
         },
         {
-          "x": 11,
-          "y": 10,
+          "x": 10,
+          "y": 9,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 10,
+          "y": 6,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 13,
+          "y": 6,
           "wait": false,
           "goal": true
         },
         {
-          "x": 1,
+          "x": 7,
           "y": 10,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 7,
+          "y": 11,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 1,
+          "y": 11,
           "wait": false,
           "goal": false
         },
@@ -1409,19 +907,25 @@
           "goal": false
         },
         {
-          "x": 1,
-          "y": 11,
+          "x": 3,
+          "y": 8,
           "wait": false,
           "goal": false
         },
         {
-          "x": 5,
-          "y": 11,
+          "x": 3,
+          "y": 10,
           "wait": false,
           "goal": false
         },
         {
-          "x": 5,
+          "x": 7,
+          "y": 10,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 7,
           "y": 17,
           "wait": false,
           "goal": false
@@ -1433,19 +937,43 @@
           "goal": true
         },
         {
-          "x": 6,
-          "y": 17,
+          "x": 14,
+          "y": 18,
           "wait": false,
           "goal": false
         },
         {
           "x": 6,
+          "y": 18,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 6,
+          "y": 12,
+          "wait": true,
+          "goal": false
+        },
+        {
+          "x": 6,
+          "y": 12,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 4,
+          "y": 12,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 4,
           "y": 11,
           "wait": false,
           "goal": false
         },
         {
-          "x": 2,
+          "x": 1,
           "y": 11,
           "wait": false,
           "goal": false
@@ -1457,68 +985,50 @@
           "goal": false
         },
         {
-          "x": 2,
-          "y": 10,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 11,
-          "y": 10,
-          "wait": false,
-          "goal": true
-        },
-        {
-          "x": 1,
-          "y": 10,
-          "wait": false,
-          "goal": false
-        },
-        {
-          "x": 1,
+          "x": 3,
           "y": 8,
           "wait": false,
           "goal": false
         },
         {
-          "x": 1,
-          "y": 9,
+          "x": 3,
+          "y": 10,
           "wait": false,
           "goal": false
         },
         {
-          "x": 8,
-          "y": 9,
+          "x": 7,
+          "y": 10,
           "wait": false,
           "goal": false
         },
         {
-          "x": 8,
-          "y": 5,
+          "x": 7,
+          "y": 9,
           "wait": false,
           "goal": false
         },
         {
           "x": 12,
-          "y": 5,
+          "y": 9,
           "wait": false,
           "goal": true
         },
         {
-          "x": 9,
-          "y": 5,
+          "x": 8,
+          "y": 9,
           "wait": false,
           "goal": false
         },
         {
-          "x": 9,
-          "y": 9,
+          "x": 8,
+          "y": 11,
           "wait": false,
           "goal": false
         },
         {
           "x": 1,
-          "y": 9,
+          "y": 11,
           "wait": false,
           "goal": false
         },
@@ -1529,19 +1039,135 @@
           "goal": false
         },
         {
+          "x": 3,
+          "y": 8,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 3,
+          "y": 10,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 7,
+          "y": 10,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 7,
+          "y": 9,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 9,
+          "y": 9,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 12,
+          "y": 2,
+          "wait": false,
+          "goal": true
+        },
+        {
+          "x": 12,
+          "y": 1,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 8,
+          "y": 1,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 8,
+          "y": 11,
+          "wait": false,
+          "goal": false
+        },
+        {
           "x": 1,
-          "y": 9,
+          "y": 11,
           "wait": false,
           "goal": false
         },
         {
-          "x": 8,
-          "y": 9,
+          "x": 1,
+          "y": 8,
           "wait": false,
           "goal": false
         },
         {
-          "x": 8,
+          "x": 3,
+          "y": 8,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 3,
+          "y": 10,
+          "wait": false,
+          "goal": false
+        }
+      ]
+    },
+    {
+      "spawnPosition": {
+        "x": 2,
+        "y": 12
+      },
+      "path": [
+        {
+          "x": 2,
+          "y": 12,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 2,
+          "y": 11,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 1,
+          "y": 11,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 1,
+          "y": 8,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 3,
+          "y": 8,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 3,
+          "y": 11,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 6,
+          "y": 11,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 6,
           "y": 14,
           "wait": false,
           "goal": false
@@ -1560,13 +1186,19 @@
         },
         {
           "x": 5,
-          "y": 10,
+          "y": 11,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 3,
+          "y": 11,
           "wait": false,
           "goal": false
         },
         {
           "x": 1,
-          "y": 10,
+          "y": 11,
           "wait": false,
           "goal": false
         },
@@ -1577,16 +1209,438 @@
           "goal": false
         },
         {
+          "x": 3,
+          "y": 8,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 3,
+          "y": 10,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 7,
+          "y": 10,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 7,
+          "y": 13,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 15,
+          "y": 13,
+          "wait": false,
+          "goal": true
+        },
+        {
+          "x": 6,
+          "y": 13,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 6,
+          "y": 12,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 4,
+          "y": 12,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 4,
+          "y": 11,
+          "wait": false,
+          "goal": false
+        },
+        {
           "x": 1,
+          "y": 11,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 1,
+          "y": 8,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 3,
+          "y": 8,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 3,
+          "y": 10,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 7,
+          "y": 10,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 9,
           "y": 9,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 9,
+          "y": 6,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 13,
+          "y": 6,
+          "wait": false,
+          "goal": true
+        },
+        {
+          "x": 8,
+          "y": 6,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 8,
+          "y": 11,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 1,
+          "y": 11,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 1,
+          "y": 8,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 3,
+          "y": 8,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 3,
+          "y": 10,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 7,
+          "y": 10,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 7,
+          "y": 17,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 14,
+          "y": 17,
+          "wait": false,
+          "goal": true
+        },
+        {
+          "x": 14,
+          "y": 18,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 6,
+          "y": 18,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 6,
+          "y": 12,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 4,
+          "y": 12,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 4,
+          "y": 11,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 1,
+          "y": 11,
+          "wait": false,
+          "goal": false
+        }
+      ]
+    },
+    {
+      "spawnPosition": {
+        "x": 3,
+        "y": 12
+      },
+      "path": [
+        {
+          "x": 3,
+          "y": 12,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 3,
+          "y": 12,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 3,
+          "y": 11,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 1,
+          "y": 11,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 1,
+          "y": 8,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 3,
+          "y": 8,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 3,
+          "y": 10,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 11,
+          "y": 10,
+          "wait": false,
+          "goal": true
+        },
+        {
+          "x": 8,
+          "y": 10,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 8,
+          "y": 11,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 1,
+          "y": 11,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 1,
+          "y": 8,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 3,
+          "y": 8,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 3,
+          "y": 10,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 8,
+          "y": 10,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 8,
+          "y": 14,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 10,
+          "y": 14,
+          "wait": false,
+          "goal": true
+        },
+        {
+          "x": 6,
+          "y": 14,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 4,
+          "y": 12,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 4,
+          "y": 11,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 1,
+          "y": 11,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 1,
+          "y": 8,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 3,
+          "y": 8,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 3,
+          "y": 10,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 11,
+          "y": 10,
+          "wait": false,
+          "goal": true
+        },
+        {
+          "x": 8,
+          "y": 10,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 8,
+          "y": 11,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 1,
+          "y": 11,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 1,
+          "y": 8,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 3,
+          "y": 8,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 3,
+          "y": 10,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 7,
+          "y": 10,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 7,
+          "y": 9,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 9,
+          "y": 9,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 9,
+          "y": 5,
           "wait": false,
           "goal": false
         },
         {
           "x": 12,
-          "y": 9,
+          "y": 5,
           "wait": false,
           "goal": true
+        },
+        {
+          "x": 8,
+          "y": 5,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 8,
+          "y": 11,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 1,
+          "y": 11,
+          "wait": false,
+          "goal": false
         },
         {
           "x": 1,
@@ -1595,22 +1649,34 @@
           "goal": false
         },
         {
-          "x": 1,
-          "y": 9,
+          "x": 3,
+          "y": 8,
+          "wait": false,
+          "goal": false
+        },
+        {
+          "x": 3,
+          "y": 10,
           "wait": false,
           "goal": false
         },
         {
           "x": 8,
-          "y": 9,
+          "y": 10,
           "wait": false,
           "goal": false
         },
         {
           "x": 8,
-          "y": 2,
+          "y": 14,
           "wait": false,
           "goal": false
+        },
+        {
+          "x": 10,
+          "y": 14,
+          "wait": false,
+          "goal": true
         }
       ]
     }
