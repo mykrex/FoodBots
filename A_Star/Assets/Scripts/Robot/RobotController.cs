@@ -42,7 +42,7 @@ public class Robot : MonoBehaviour
         // Verificamos si el nodo tiene el valor 'wait' en true, si es así, esperamos 2 segundos
         if (targetCoordinates.wait)
         {
-            StartCoroutine(WaitBeforeNextMove(5f));
+            StartCoroutine(WaitBeforeNextMove(1.25f));
             return;
         }
 
