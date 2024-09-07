@@ -11,7 +11,7 @@ public class Spawner : MonoBehaviour
     {
         if (currentMercancia == null && !isSpawning)
         {
-            StartCoroutine(SpawnWithDelay(2f));
+            StartCoroutine(SpawnWithDelay(1.5f));
         }
     }
 
